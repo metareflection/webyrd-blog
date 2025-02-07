@@ -13,4 +13,6 @@ I've also been stuck for years on writing books by myself.  Although I'm co-auth
 
 So, last night I decided I should just start a blog, and treat the writing of this blog no differently than the public speaking or the kiloTube Challenge.  Think, write, edit, post, repeat, *quickly*, and just don't stop.  By *finishing* and sharing what I write, and by getting feedback, I think I'll have a much better chance of finishing books.  Maybe a book will come out of many blog posts.  And maybe I'll really enjoy writing shorter pieces.  The first and second editions of *The Reasoned Schemer* took 18 months and 13 years to complete, respectively.  While I learned a lot from those experiences, I think I have plenty more to learn by completing writings that take minutes, hours, days rather than months and years.
 
+Thank you to Nada Amin for helping me set up this blog.
+
 Will
